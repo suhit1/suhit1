@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **Front and Backend**
+- 💬 Ask me about **Frontend and Backend**
 
 - 📫 How to reach me **suhitgupta111@gmail.com**
 
