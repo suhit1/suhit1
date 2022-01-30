@@ -1,7 +1,7 @@
 
 <image align="center"  alt="Coding" width="1000" height="300"  src="./Work-Fun.gif">
 
-<h1 align="center">Hi 🙋🏻‍♂, I'm Suhit Gupta</h1>
+<h1 align="center">नमस्ते(Namaste)🙏🏻. I'm Suhit Gupta</h1>
 <h2 align="center">A passionate Full Stack developer from India</h2>
 
 <image align="right" alt="Coding" height="300" width="400" src="./bd4ed327189c2a56695beb91cd534570.gif">
