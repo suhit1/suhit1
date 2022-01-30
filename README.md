@@ -2,7 +2,7 @@
 <image align="center"  alt="Coding" width="1000" height="300" src="./Become-a-complete-developer.jpg">
 
 <h1 align="center">Hi 🙋🏻‍♂, I'm Suhit Gupta</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h2 align="center">A passionate Full Stack developer from India</h2>
 
 <image align="right" alt="Coding" width="400" src="./bd4ed327189c2a56695beb91cd534570.gif">
 
