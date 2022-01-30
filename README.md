@@ -1,5 +1,5 @@
 
-<image align="center"  alt="Coding" width="1000" height="400"  src="./Work-Fun.gif">
+<image align="center"  alt="Coding" width="1000" height="300"  src="./Work-Fun.gif">
 
 <h1 align="center">Hi 🙋🏻‍♂, I'm Suhit Gupta</h1>
 <h2 align="center">A passionate Full Stack developer from India</h2>
