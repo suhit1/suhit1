@@ -1,5 +1,5 @@
 
-<image align="center" alt="Coding" width="1000" height="400" src="./Become-a-complete-developer.jpg">
+<image align="center"  alt="Coding" width="1000" height="300" src="./Become-a-complete-developer.jpg">
 
 <h1 align="center">Hi 🙋🏻‍♂, I'm Suhit Gupta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
