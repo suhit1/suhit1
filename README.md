@@ -29,6 +29,6 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhit1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="suhit1" /></p>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhit1&theme=tokyonight&show_icons=true" alt="suhit1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhit1&theme=tokyonight&show_icons=true&include_all_commits=true" alt="suhit1" /></p>
 <br/>
 <p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhit1&theme=tokyonight" alt="suhit1" /></p>
