@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **suhitgupta111@gmail.com**
   
-- ⚡Fun fact **I love to play cricket🏏 and listening to music🎵**
+- ⚡Fun fact  **I love to play cricket🏏 and listening to music🎵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
